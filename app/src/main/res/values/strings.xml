@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">InstagramLoginUI</string>
+    <string name="spinner_in_kotlin">SpinnerInKotlin</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="log_in">Log In</string>
+    <string name="phone_number_email_address_or_username">Phone number, email address or username</string>
+    <string name="instagram_logo">Instagram Logo</string>
+    <string name="password">Password</string>
+    <string name="forgotten_your_login_details">Forgotten your login details?</string>
+    <string name="get_help_with_logging_in">Get help with logging in.</string>
+    <string name="or">OR</string>
+    <string name="continue_as_xyz">Continue as XYZ</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up.</string>
+    <string name="instagram_name">Instagram Name</string>
+    <string name="facebook_icon">Facebook icon</string>
+    <string name="meta_logo">Meta Logo</string>
+
+    <string-array name="Languages">
+        <item>English (UK)</item>
+        <item>English</item>
+        <item>Afrikaans</item>
+        <item>Espanol</item>
+        <item>Filipino</item>
+        <item>Italiano</item>
+    </string-array>
+</resources>
